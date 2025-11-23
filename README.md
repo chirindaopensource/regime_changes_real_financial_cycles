@@ -268,4 +268,3 @@ GitHub repository: https://github.com/chirindaopensource/regime_changes_real_fin
 --
 
 *This README was generated based on the structure and content of the `regime_changes_real_financial_cycles_draft.ipynb` notebook and follows best practices for research software documentation.*
-```
