@@ -94,7 +94,7 @@ The model is estimated using the **Expectation-Maximization (EM) Algorithm**, wh
 Below is a diagram which sums up the Inputs-Processes-Outputs of the proposed approach:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chirindaopensource/regime_changes_real_financial_cycles/main/assets/regime_changes_real_financial_cycles_inputs_processes_outputs.png" alt="Minsky MS-VAR Process Flow" width="100%">
+  <img src="https://github.com/chirindaopensource/regime_changes_real_financial_cycles/blob/main/regime_changes_real_financial_cycles_inputs_processes_outputs.png" alt="Minsky MS-VAR Process Flow" width="100%">
 </div>
 
 
